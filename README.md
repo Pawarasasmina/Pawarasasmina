@@ -10,7 +10,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate a **SLIIT**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-pawarasasminas-projects.vercel.app/](https://portfolio-pawarasasminas-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.pawara.me/](https://www.pawara.me/)
 
 - 📫 How to reach me **pawarasasmina1@gmail.com**
 
